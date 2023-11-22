@@ -1,0 +1,203 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2456win64openssl111tphp824
+MySQL version 		: 10.4.28
+XML Reader 		: Yes
+PHP Version 		: 8.2.4
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 40M
+PHP Extension GD 	: No
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 40 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 06:51:24 UTC
+---
+
+Deleted customizer Settings {"featured_images":false,"breadcrumb":false,"cta_button":false,"minified_css":false,"front_page":0,"home_headline":"HAPPINESS","home_subheadline":"IS A WARM CUP","home_content_area":"Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.","cta_text":"Call to Action","cta_url":"#nogo","featured_content":null,"testimonials":0,"testimonial_title":null,"google_site_verification":"","bing_site_verification":"","yahoo_site_verification":"","site_statistics_tracker":"","twitter_uid":"","facebook_uid":"","linkedin_uid":"","youtube_uid":"","stumble_uid":"","rss_uid":"","google_plus_uid":"","instagram_uid":"","pinterest_uid":"","yelp_uid":"","vimeo_uid":"","foursquare_uid":"","email_uid":"","testimonial_val":null,"teammember1":null,"teammember2":null,"teammember3":null,"feature1":null,"feature2":null,"feature3":null,"responsive_inline_css":"","responsive_inline_js_head":"","responsive_inline_js_footer":"","responsive_inline_css_js_footer":"","static_page_layout_default":"default","single_post_layout_default":"default","blog_posts_index_layout_default":"default","site_layout_option":"boxed","button_style":"default","home-widgets":false,"site_footer_option":"footer-3-col","res_hide_site_title":false,"res_hide_tagline":true,"stumbleupon_uid":""}
+Deleted - Site Options []
+Inserted WP Form 10
+Inserted WP Form 12
+Importing from XML https://ccreadysites.cyberchimps.com/wp-content/uploads/sites/8/wxr.xml
+Inserted - Term 2 - {"term_id":2,"name":"Fall Collection","slug":"fall-collection","term_group":0,"term_taxonomy_id":2,"taxonomy":"category","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 3 - {"term_id":3,"name":"page","slug":"page","term_group":0,"term_taxonomy_id":3,"taxonomy":"elementor_library_type","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Term 4 - {"term_id":4,"name":"Menu1","slug":"menu1","term_group":0,"term_taxonomy_id":4,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 109 - attachment - home-banner1
+Inserted - Post 110 - attachment - banner1
+Inserted - Post 111 - attachment - mens-banner
+Inserted - Post 112 - attachment - services-b&amp;w
+Inserted - Post 113 - attachment - services-b&amp;w3
+Inserted - Post 114 - attachment - services-b&amp;w1
+Inserted - Post 115 - attachment - services-b&amp;w2
+Inserted - Post 116 - attachment - services-color
+Inserted - Post 117 - attachment - services-color1
+Inserted - Post 118 - attachment - services-color2
+Inserted - Post 119 - attachment - services-color3
+Inserted - Post 122 - attachment - footer
+Inserted - Post 125 - attachment - home-banner
+Inserted - Post 127 - attachment - women-banner
+Inserted - Post 130 - attachment - about
+Inserted - Post 136 - attachment - about
+Inserted - Post 138 - attachment - home-banner
+Inserted - Post 143 - attachment - home-banner-background
+Inserted - Post 147 - attachment - home-banner-background2
+Inserted - Post 163 - attachment - blog-post2
+Inserted - Post 165 - attachment - blog-post3
+Inserted - Post 167 - attachment - blog-post1
+Inserted - Post 193 - attachment - lifestyle-banner1
+Inserted - Post 194 - attachment - lifestyle-banner2
+Inserted - Post 195 - attachment - lifestyle-banner3
+Inserted - Post 203 - attachment - lifestyle-logo
+Inserted - Post 267 - attachment - yoga-jane-doe
+Inserted - Post 896 - attachment - Landing-Image.jpg
+Inserted - Post 897 - attachment - Rectangle-151004-1.png
+Inserted - Post 898 - attachment - Rectangle-151007.png
+Inserted - Post 899 - attachment - Rectangle-151006.png
+Inserted - Post 900 - attachment - tanisa-beck-kUPY_LN-TH0-unsplash-scaled.jpg
+Inserted - Post 901 - attachment - viktor-zhulin-NXfRulhsmPs-unsplash-scaled.jpg
+Inserted - Post 902 - attachment - ali-karimiboroujeni-4SjDZfWP3ns-unsplash-scaled.jpg
+Inserted - Post 904 - attachment - Frame-175655.png
+Inserted - Post 905 - attachment - Frame-175654.png
+Inserted - Post 906 - attachment - Frame-175653.png
+Inserted - Post 907 - attachment - Frame-175652.png
+Inserted - Post 908 - attachment - Frame-175651.png
+Inserted - Post 909 - attachment - Frame-175650.png
+Inserted - Post 910 - attachment - Rectangle-151013.jpg
+Inserted - Post 911 - attachment - Rectangle-151013-1.jpg
+Inserted - Post 912 - attachment - Rectangle-151014.png
+Inserted - Post 913 - attachment - Rectangle-151013-2.jpg
+Inserted - Post 914 - attachment - Rectangle-150932-3.png
+Inserted - Post 915 - attachment - Rectangle-150932-2.png
+Inserted - Post 916 - attachment - Rectangle-150932-1.png
+Inserted - Post 917 - attachment - Rectangle-150932.png
+Inserted - Post 918 - attachment - icons.png
+Inserted - Post 922 - attachment - Trisha.png
+Inserted - Post 923 - attachment - Rectangle-150929-1.jpg
+Inserted - Post 969 - attachment - Rectangle 150952
+Inserted - Post 972 - attachment - Rectangle-150952-1
+Inserted - Post 974 - attachment - Rectangle-150952-3
+Inserted - Post 976 - attachment - Rectangle-150952-2
+Inserted - Post 978 - attachment - Rectangle-150952-4
+Inserted - Post 980 - attachment - Rectangle-150952-5
+Inserted - Post 1001 - attachment - farol-106-dIAvBy00ZfM-unsplash
+Inserted - Post 1002 - attachment - farol-106-BdoAkzlOxZI-unsplash
+Inserted - Post 1003 - attachment - farol-106-c2Zrm27IEyk-unsplash
+Inserted - Post 1004 - attachment - farol-106-JlriaTaLavA-unsplash
+Inserted - Post 1005 - attachment - farol-106-WyT3qwO2c8s-unsplash
+Inserted - Post 1006 - attachment - farol-106-YjS9uTQ3mgQ-unsplash
+Inserted - Post 1007 - attachment - farol-106-pnSxWxfVJs8-unsplash
+Inserted - Post 1008 - attachment - farol-106-I7XGTGRmFoI-unsplash
+Inserted - Post 1009 - attachment - farol-106-qnEwPaRu9Es-unsplash
+Inserted - Post 1022 - attachment - How to add Breadcrumb Navigation to your WordPress website (3) (1)
+Inserted - Post 1038 - attachment - farol-106-WyT3qwO2c8s-unsplash 1
+Inserted - Post 1067 - attachment - pexels-pixabay-258447
+Inserted - Post 1068 - attachment - pexels-laura-tancredi-7078467
+Inserted - Post 1074 - attachment - pexels-chris-molloy-1308940
+Inserted - Post 1075 - attachment - pexels-pixabay-460672
+Inserted - Post 1076 - attachment - pexels-ben-cheung-427747
+Inserted - Post 1077 - attachment - pexels-lina-kivaka-12238283
+Inserted - Post 1078 - attachment - pexels-jan-židlický-3030468
+Inserted - Post 1087 - attachment - Rectangle-151004-1
+Inserted - Post 1088 - attachment - Rectangle-151006
+Inserted - Post 1089 - attachment - Rectangle-151007
+Inserted - Post 1090 - attachment - 12
+Inserted - Post 1091 - attachment - 13
+Inserted - Post 1092 - attachment - 14
+Inserted - Post 1093 - attachment - pexels-işıl-15145828
+Inserted - Post 1094 - attachment - pexels-ioana-motoc-15933957
+Inserted - Post 1095 - attachment - pexels-mariam-antadze-6618562
+Inserted - Post 1096 - attachment - 3
+Inserted - Post 1097 - attachment - 4
+Inserted - Post 1098 - attachment - 5
+Inserted - Post 1099 - attachment - pexels-ioana-motoc-15933957
+Inserted - Post 1100 - attachment - pexels-işıl-15145828
+Inserted - Post 1101 - attachment - pexels-mariam-antadze-6618562
+Inserted - Post 1102 - attachment - ali-karimiboroujeni-4SjDZfWP3ns-unsplash-scaled-1
+Inserted - Post 1103 - attachment - tanisa-beck-kUPY_LN-TH0-unsplash-scaled-1
+Inserted - Post 1104 - attachment - viktor-zhulin-NXfRulhsmPs-unsplash-scaled-1
+Inserted - Post 1105 - attachment - Frame-175655 (1)
+Inserted - Post 1106 - attachment - Frame-175655 (2)
+Inserted - Post 1107 - attachment - Frame-175655 (3)
+Inserted - Post 1108 - attachment - Frame-175655 (4)
+Inserted - Post 1109 - attachment - Frame-175655 (5)
+Inserted - Post 1110 - attachment - Frame-175655 (6)
+Inserted - Post 1111 - attachment - Rectangle-151013
+Inserted - Post 1112 - attachment - pexels-polina-tankilevitch-3735641 1
+Inserted - Post 1113 - attachment - Rectangle-151013-2 1
+Inserted - Post 1114 - attachment - Mask group-1
+Inserted - Post 1115 - attachment - Mask group
+Inserted - Post 1126 - attachment - farol-106-WyT3qwO2c8s-unsplash 1 (1)
+Inserted - Post 1127 - attachment - farol-106-WyT3qwO2c8s-unsplash
+Inserted - Post 1189 - attachment - Rectangle-150952-5 1
+Inserted - Post 1191 - attachment - Rectangle-150952-4 1
+Inserted - Post 1192 - attachment - Rectangle-150952-3 1
+Inserted - Post 1193 - attachment - Rectangle-150952-2 1
+Inserted - Post 1194 - attachment - Rectangle-150952-1 1
+Inserted - Post 1195 - attachment - Rectangle-150952 1
+Inserted - Post 1227 - attachment - pexels-mariam-antadze-6536121
+Inserted - Post 1266 - attachment - pexels-vie-studio-6167281
+Inserted - Post 1271 - attachment - b
+Inserted - Post 1272 - attachment - c
+Inserted - Post 1274 - attachment - d
+Inserted - Post 1275 - custom_css - responsive
+Inserted - Post 74 - nav_menu_item - 
+Inserted - Post 75 - nav_menu_item - 
+Inserted - Post 76 - nav_menu_item - Home 1
+Inserted - Post 80 - nav_menu_item - 
+Inserted - Post 295 - elementor_library - Default Kit
+Inserted - Post 322 - attachment - lifestyle.WordPress.2023-01-24_new.xml.txt
+Inserted - Post 919 - elementor_library - Homepage_1.0_24.01.2023
+Inserted - Post 924 - elementor_library - About_1.0_24.01.2023
+Inserted - Post 927 - elementor_library - Contact_1.0_24.01.2023
+Inserted - Post 931 - elementor_library - Old_Home_24.01.2023
+Inserted - Post 933 - elementor_library - Old_About_24.01.2023
+Inserted - Post 938 - elementor_library - Old_Contact_24.01.2023
+Inserted - Post 1027 - nav_menu_item - Pages
+Inserted - Post 1028 - nav_menu_item - 
+Inserted - Post 1029 - nav_menu_item - 
+Inserted - Post 1036 - nav_menu_item - Home
+Inserted - Post 1037 - nav_menu_item - 
+Inserted - Post 1065 - nav_menu_item - 
+Inserted - Post 1173 - nav_menu_item - 
+Inserted - Post 1276 - page - Privacy Policy
+Inserted - Post 1277 - page - Home
+Inserted - Post 71 - page - Blog
+Inserted - Post 73 - page - Contact
+Inserted - Post 79 - page - About
+Inserted - Post 100 - post - Latest fashion trends of 2019
+Inserted - Post 103 - post - Get your wardrobe prepared for fall!
+Inserted - Post 801 - post - Era Of Fashion: 1983
+Inserted - Post 876 - post - Bags to buy this year
+Inserted - Post 881 - post - Accessories to buy this fall
+Inserted - Post 884 - post - Places you must visit this year
+Inserted - Post 887 - post - Minimalistic Clothes
+Inserted - Post 890 - post - Brown Pallete hacks for you
+Inserted - Post 995 - page - Gallery
+Inserted - Post 997 - page - 404 Page
+Inserted - Post 1034 - page - Home 2
+Inserted - Post 1063 - page - Events
+Inserted - Post 1171 - page - Blog 2
+Inserted - Post 1201 - page - Single Blog Article
+Inserted - Post 1203 - nav_menu_item - 
+Inserted - Post 1278 - post - Hello world!
+Inserted - Post 106 - post - Fashion hacks every girl will love
+Inserted - Post 806 - post - Era Of Fashion 2
+Inserted - Post 808 - post - Era Of Fashion 3
+Imported Customizer Settings {"theme_mods_responsive":{"0":false,"nav_menu_locations":{"header-menu":2,"footer-menu":0},"custom_css_post_id":-1,"custom_logo":964,"res_hide_site_title":"1","res_hide_tagline":"1","body_typography":{"font-weight":"400","font-family":"'Inter', sans-serif","font-size":"16px","line-height":"1.6"},"headings_typography":{"font-family":"'Inter', sans-serif","font-weight":"400"},"button-color":"#0c0c0c","button-text-color":"#ffffff","link-color":"#0c0c0c","responsive_main_container_width":"1140","responsive_fullwidth_header_color":"#ffffff","label-color":"#0c0c0c","responsive_menu_background_colorpicker":"#ffffff","responsive_blog_entry_elements_positioning":["featured_image","title","content"],"input-text-color":"#0c0c0c","responsive_button_border_radius":"0","responsive_show_excerpt":"excerpt","mobile_menu_dropdown_typography":{"font-family":"'Montserrat', sans-serif","font-size":"16px"},"menu_typography":{"font-family":"'Montserrat', sans-serif","font-size":"14px","font-weight":"500"},"responsive_menu_background_colorpicker_2":"#ffffff","responsive_menu_text_colorpicker":"#000000","responsive_menu_text_hover_colorpicker":"#333333","responsive_menu_active_colorpicker":"#ffffff","responsive_menu_active_text_colorpicker":"#333333","responsive_menu_item_hover_colorpicker":"#ffffff","responsive_menu_border_color":"#ffffff","header_layout_options":"header-logo-left","responsive_header_border_color":"#b79674","responsive_footer_background_color":"#b79674","responsive_footer_text_color":"#ffffff","button-hover-color":"#2d5fb5","button-hover-text-color":"#ffffff","responsive_sidebar_background_color":"#f9f9f9","responsive_sidebar_heading_color":"","blog_layout_option":"fullwidth-content","single_layout_option":"fullwidth-content","page_layout_option":"fullwidth-content","responsive_container_background_color":"#f7f7f7","responsive_blog_entries_top_padding":"0","responsive_blog_entries_left_padding":"20","responsive_blog_entries_bottom_padding":"20","responsive_blog_entries_right_padding":"20","responsive_single_post_background_color":"#f9f9f9","responsive_blog_single_elements_positioning":["featured_image","title","content"],"responsive_footer_border":"1","responsive_footer_border_color":"#aaaaaa","responsive_hide_tagline":"1","responsive_hide_title":1,"responsive_button_color":"#e8cdb2","responsive_button_hover_color":"#78624c","responsive_button_text_color":"#000000","responsive_button_hover_text_color":"#ffffff","responsive_inputs_text_color":"#333333","responsive_label_color":"rgba(255,255,255,0)","responsive_header_menu_background_color":"#ffffff","responsive_header_active_menu_background_color":"#ffffff","responsive_header_menu_toggle_color":"#000000","responsive_header_menu_link_color":"#000000","responsive_header_menu_border_color":"#ffffff","responsive_header_menu_link_hover_color":"#b79674","responsive_header_background_color":"#ffffff","responsive_header_sub_menu_background_color":"#ffffff","responsive_header_sub_menu_link_color":"#000000","responsive_header_sub_menu_link_hover_color":"#b79674","responsive_box_background_color":"#f7f7f7","background_color":"ffffff","responsive_link_color":"#000000","responsive_footer_links_color":"#eaeaea","responsive_footer_links_hover_color":"#ffffff","responsive_header_alignment":"left","responsive_container_width":"1157","responsive_blog_sidebar_position":"no","responsive_blog_content_width":"100","responsive_blog_entry_columns":"3","responsive_blog_entry_display_masonry":0,"responsive_body_text_color":"#4e4e4e","header_menu_typography":{"font-family":"","font-size":"16px","font-weight":"500"},"heading_h1_typography":{"font-family":"'Playfair Display', serif","font-weight":"400","font-size":"60px"},"heading_h2_typography":{"font-family":"'Inter', sans-serif","font-weight":"600","font-style":"normal","font-size":"20px"},"heading_h3_typography":{"font-family":"'Inter', sans-serif","font-weight":"400"},"heading_h4_typography":{"font-family":"'Inter', sans-serif","font-weight":"400"},"heading_h5_typography":{"font-family":"'Inter', sans-serif","font-weight":"400"},"heading_h6_typography":{"font-family":"'Inter', sans-serif","font-weight":"400"},"responsive_mobile_menu_breakpoint":"767","responsive_page_content_width":"70","responsive_inputs_background_color":"#f8f0e8","responsive_inputs_radius":0,"responsive_retina_logo":1,"responsive_footer_widgets_top_padding":"0","responsive_footer_widgets_left_padding":"0","responsive_footer_widgets_bottom_padding":"0","responsive_footer_widgets_right_padding":"0","responsive_footer_bar_layout":"vertical","responsive_footer_border_size":"0","responsive_social_link_new_tab":"_self","footer_typography":{"font-family":"'Playfair Display', serif","font-weight":"400","font-size":"14px","line-height":"1.6"},"responsive_scroll_to_top":0,"responsive_header_top_padding":"10","responsive_header_left_padding":"0","responsive_header_bottom_padding":"10","responsive_header_right_padding":"0","responsive_footer_bar_top_padding":"20","responsive_footer_bar_left_padding":"20","responsive_footer_bar_bottom_padding":"20","responsive_footer_bar_right_padding":"20","responsive_box_top_padding":"30","responsive_box_left_padding":"30","responsive_box_bottom_padding":"30","responsive_box_right_padding":"30","responsive_inputs_top_padding":"20","responsive_inputs_bottom_padding":"20","responsive_inputs_right_padding":"0","input_typography":{"font-family":"'Inter', sans-serif","font-weight":"200","font-size":"18px","line-height":"1.6"},"responsive_inputs_left_padding":"30","responsive_inputs_border_width":"0","button_typography":{"font-family":"'Playfair Display', serif","font-weight":"400","font-size":"18px","line-height":"1"},"responsive_buttons_top_padding":"14","responsive_buttons_left_padding":"20","responsive_buttons_bottom_padding":"14","responsive_buttons_right_padding":"20","responsive_header_height":"0","responsive_bottom_border":"1","responsive_inline_logo_site_title":0,"responsive_content_header_top_padding":"30","responsive_content_header_left_padding":"30","responsive_content_header_bottom_padding":"30","responsive_content_header_right_padding":"30","content_header_description_typography":{"font-weight":"400","font-family":"'Open Sans', sans-serif"},"responsive_single_blog_content_width":"70","responsive_single_blog_featured_image_width":"850","responsive_blog_single_meta":["author","date","comments","tag"],"responsive_blog_featured_image_width":0,"responsive_site_background_image_size":"cover","responsive_all_heading_text_color":"#000000","responsive_link_hover_color":"#4e4e4e","responsive_page_single_elements_positioning":["title","featured_image","content"],"responsive_page_featured_image_width":"850","responsive_blog_entry_content_type":"excerpt","responsive_blog_read_more_text":"","sidebar_typography":{"font-family":"'Inter', sans-serif","font-weight":"400","font-size":"14px"},"responsive_excerpt_length":"10","responsive_blog_entry_read_more_type":"button","responsive_blog_entry_meta_separator_text":"","responsive_page_sidebar_position":"no","exclude_post_cat":[""],"responsive_style":"flat","responsive_breadcrumb_disable_blog_posts_page":1,"responsive_breadcrumb_disable_archive":1,"responsive_breadcrumb_disable_single_page":1,"responsive_breadcrumb_disable_single_post":1,"meta_typography":{"font-family":"'Inter', sans-serif","font-weight":"400"},"responsive_alt_background_color":"#ffffff","responsive_meta_text_color":"#4e4e4e","content_header_heading_typography":{"font-size":"60px","font-family":"'Playfair Display', serif","font-weight":"400","line-height":"1.75"},"responsive_content_header_description_color":"#999999","responsive_breadcrumb_color":"#222222","responsive_header_site_title_hover_color":"#edd9c5","header_site_title_typography":{"font-family":"'Inter', sans-serif","font-weight":"400"},"responsive_sidebar_link_color":"#b79674","responsive_sidebar_link_hover_color":"#493c2e","responsive_header_active_menu_link_color":"#b79674","responsive_header_sub_menu_active_link_color":"#b79674"},"responsive_settings":{"featured_images":0,"breadcrumb":0,"cta_button":false,"minified_css":false,"front_page":0,"home_headline":"HAPPINESS","home_subheadline":"IS A WARM CUP","home_content_area":"Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.","cta_text":"Call to Action","cta_url":"#nogo","featured_content":"","testimonials":0,"testimonial_title":"Testimonial","google_site_verification":"","bing_site_verification":"","yahoo_site_verification":"","site_statistics_tracker":"","twitter_uid":"","facebook_uid":"","linkedin_uid":"","youtube_uid":"","stumble_uid":"","rss_uid":"","google_plus_uid":"","instagram_uid":"","pinterest_uid":"","yelp_uid":"","vimeo_uid":"","foursquare_uid":"","email_uid":"","testimonial_val":"","teammember1":"","teammember2":"","teammember3":"","feature1":"","feature2":"","feature3":"","responsive_inline_css":"","responsive_inline_js_head":"","responsive_inline_js_footer":"","responsive_inline_css_js_footer":"","static_page_layout_default":"default","single_post_layout_default":"default","blog_posts_index_layout_default":"blog-2-col","site_layout_option":"fullwidth-content","button_style":"default","home-widgets":false,"site_footer_option":"","res_hide_site_title":false,"res_hide_tagline":false,"sticky-header":false,"googleplus_uid":"","stumbleupon_uid":"","copyright_textbox":"Lifestyle","blog_post_title_toggle":1,"blog_post_title_text":"Blog","about":"","about_title":"About Box Title","about_text":"","about_cta_text":"Call to Action","about_cta_url":"#","feature":"","feature_title":"Features","team":"","team_title":"team","contact":"","contact_title":"Contact Us","contact_subtitle":"Contact subtitle","contact_add":"","contact_email":"","contact_ph":"","contact_content":""},"custom_css":"11"}
+Old Responsive Theme Options {"featured_images":false,"breadcrumb":false,"cta_button":false,"minified_css":false,"front_page":0,"home_headline":"HAPPINESS","home_subheadline":"IS A WARM CUP","home_content_area":"Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.","cta_text":"Call to Action","cta_url":"#nogo","featured_content":null,"testimonials":0,"testimonial_title":null,"google_site_verification":"","bing_site_verification":"","yahoo_site_verification":"","site_statistics_tracker":"","twitter_uid":"","facebook_uid":"","linkedin_uid":"","youtube_uid":"","stumble_uid":"","rss_uid":"","google_plus_uid":"","instagram_uid":"","pinterest_uid":"","yelp_uid":"","vimeo_uid":"","foursquare_uid":"","email_uid":"","testimonial_val":null,"teammember1":null,"teammember2":null,"teammember3":null,"feature1":null,"feature2":null,"feature3":null,"responsive_inline_css":"","responsive_inline_js_head":"","responsive_inline_js_footer":"","responsive_inline_css_js_footer":"","static_page_layout_default":"default","single_post_layout_default":"default","blog_posts_index_layout_default":"default","site_layout_option":"boxed","button_style":"default","home-widgets":false,"site_footer_option":"footer-3-col","res_hide_site_title":false,"res_hide_tagline":true,"stumbleupon_uid":""}
+Backup - Responsive Theme Mods {"0":false,"nav_menu_locations":[],"responsive_container_width":1140,"sidebars_widgets":{"time":1700635916,"data":{"wp_inactive_widgets":[],"main-sidebar":["block-2","block-3","block-4","block-5","block-6"],"home-widget-1":[],"home-widget-2":[],"home-widget-3":[],"gallery-widget":[],"colophon-widget":[],"header-widgets":[],"footer-widget-1":[],"footer-widget-2":[],"footer-widget-3":[],"footer-widget-4":[]}}}
+Imported - Widgets {"main-sidebar":{"block-2":{"content":"<!-- wp:group {\"layout\":{\"type\":\"constrained\"}} -->\n<div class=\"wp-block-group\"><!-- wp:search {\"label\":\"Search\",\"showLabel\":false,\"placeholder\":\"Search Blogs \",\"width\":100,\"widthUnit\":\"%\",\"buttonText\":\"Search\",\"buttonPosition\":\"no-button\",\"fontSize\":\"normal\"} \/-->\n\n<!-- wp:heading -->\n<h2>Categories<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:categories \/-->\n\n<!-- wp:heading -->\n<h2>Latest Blogs<\/h2>\n<!-- \/wp:heading -->\n\n<!-- wp:latest-posts {\"displayFeaturedImage\":true,\"featuredImageSizeSlug\":\"large\",\"align\":\"left\",\"fontSize\":\"normal\"} \/--><\/div>\n<!-- \/wp:group -->"}}}
+Imported - Site Options {"custom_logo":"964","show_on_front":"page","page_on_front":"Home","page_for_posts":"Blog","nav_menu_locations":false,"wpforms_settings":false,"elementor_container_width":"1140","elementor_cpt_support":["post","page"],"elementor_css_print_method":"internal","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":false,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":""}
+Complete 
+Batch Process Started!
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+Batch Process Complete!
